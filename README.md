@@ -47,6 +47,7 @@ Numpy | Pandas | Scikit
 
 - Preparing to participate in GSoC '26
 - Learning Deep Learning
+- I'm still working on to update my profile readme
 
 ## Socials
 
