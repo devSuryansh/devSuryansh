@@ -7,6 +7,18 @@ Computer Science Student | Tech Savvy
 - Interested in Open Source & GSoC
 - Strong foundation in DSA & CP
 
+## Highlights
+
+- Good in working with team
+- Regularly participates in Competitive Programming contests
+- Actively contributes in various organisations
+
+## Current Status
+
+- Preparing to participate in GSoC '26
+- Learning Deep Learning
+- I'm still working on to update my profile readme
+
 ## Tech Stack
 
 ### Languages
@@ -36,18 +48,6 @@ GitHub Pages | Vercel
 ### Advanced
 
 Numpy | Pandas | Scikit
-
-## Highlights
-
-- Good in working with team
-- Regularly participates in Competitive Programming contests
-- Actively contributes in various organisations
-
-## Current Status
-
-- Preparing to participate in GSoC '26
-- Learning Deep Learning
-- I'm still working on to update my profile readme
 
 ## Socials
 
