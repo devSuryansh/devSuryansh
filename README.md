@@ -49,26 +49,21 @@
   <tr>
     <td width="50%" align="center">
 
-[![GitHub Public Stats](https://github-readme-stats.vercel.app/api?username=devSuryansh&show_icons=true&border_radius=1&bg_color=0d1117&text_color=f8f8ff&title_color=f8f8ff&hide_title=true&ring_color=4c71f2&rank_icon=github)](https://devsuryansh.in)
+[![GitHub Public Stats](https://github-readme-stats.vercel.app/api?username=devSuryansh&show_icons=true&border_radius=1&bg_color=0d1117&text_color=f8f8ff&title_color=f8f8ff&hide_title=true&ring_color=4c71f2&rank_icon=github&hide_border=true)](https://devsuryansh.in)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=devSuryansh&border_radius=1&short_numbers=true&background=0d1117&currStreakNum=f8f8ff&sideNums=f8f8ff&currStreakLabel=f8f8ff&sideLabels=f8f8ff&ring=ff6400&dates=9e9e9e&hide_border=true)](https://devsuryansh.in)
 
   </td>
-    <td width="50%" align="center" rowspan="2">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSuryansh&layout=pie&theme=dark&border_radius=1&bg_color=0d1117&text_color=f8f8ff&title_color=f8f8ff&langs_count=8&hide_title=true)](https://devsuryansh.in)
-
-  </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devSuryansh&border_radius=1&short_numbers=true&background=0d1117&currStreakNum=f8f8ff&sideNums=f8f8ff&currStreakLabel=f8f8ff&sideLabels=f8f8ff&ring=ff6400&dates=9e9e9e)](https://devsuryansh.in)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSuryansh&layout=pie&theme=dark&border_radius=1&bg_color=0d1117&text_color=f8f8ff&title_color=f8f8ff&langs_count=8&hide_title=true&hide_border=true)](https://devsuryansh.in)
 
   </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devSuryansh&grid=false&bg_color=0d1117&radius=1&line=4c71f2&area=true&hide_title=true&color=f8f8ff&theme=github-dark)](https://devsuryansh.in)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devSuryansh&grid=false&bg_color=0d1117&radius=1&line=4c71f2&area=true&hide_title=true&color=f8f8ff&theme=github-dark&hide_border=true)](https://devsuryansh.in)
 
   </td>
   </tr>
