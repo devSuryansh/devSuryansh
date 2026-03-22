@@ -61,7 +61,7 @@
   <tr>
     <td width="50%" align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devSuryansh&border_radius=1&short_numbers=true&background=0d1117&currStreakNum=f8f8ff&sideNums=f8f8ff&currStreakLabel=f8f8ff&sideLabels=f8f8ff&ring=ff6400&theme=github-dark-blue)](https://devsuryansh.in)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devSuryansh&border_radius=1&short_numbers=true&background=0d1117&currStreakNum=f8f8ff&sideNums=f8f8ff&currStreakLabel=f8f8ff&sideLabels=f8f8ff&ring=ff6400&dates=9e9e9e)](https://devsuryansh.in)
 
   </td>
   </tr>
