@@ -1,58 +1,83 @@
-# Suryansh Singh
+<div align="center">
 
-Computer Science Student | Tech Savvy
+  [![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Suryansh+Singh&desc=Polymath&descAlignY=50&reversal=true&fontAlignY=35)](https://devsuryansh.in)
 
-## About Me
+# 🧑‍💻 About Me
 
-- Interested in Open Source & GSoC
-- Strong foundation in DSA & CP
+<table>
+  <tr>
+    <td valign="middle" width="400">
+      
+- 🔭 **Building:** _[Data Density Heatmap Application](https://github.com/devSuryansh/data-density-heatmap-application)_
+- 🌱 **Learning:** System Design, Web3
+- 🕠 **Timezone:** IST (UTC +5:30)
 
-## Highlights
+    </td>
+    <td valign="middle" width="400">
+      
+[![neko](./assets/gif1.gif)](https://devsuryansh.in)
+    </td>
+  </tr>
+</table>
 
-- Good in working with team
-- Regularly participates in Competitive Programming contests
-- Actively contributes in various organisations
+# 🏆 Achievements
 
-## Current Status
+<table>
+  <tr>
+    <td valign="middle" width="400">
 
-- Preparing to participate in GSoC '26
-- Learning Deep Learning
-- I'm still working on to update my profile readme
+[![neko](./assets/gif2.gif)](https://devsuryansh.in)
+    </td>
+    <td valign="middle" width="400">
 
-## Tech Stack
+- 🏆 **Hackathons:** 3x hackathons wins
+- ⚡ **LeetCode:** Rated 1600+ on LeetCode
+- ⭐ **CodeChef:** Achieved 2 Star on CodeChef
+- 🟣 **Codeforces:** Ranked Pupil on Codeforces
 
-### Languages
+    </td>
+  </tr>
+</table>
 
-Python | C/C++ | JavaScript | TypeScript
+# 💻 Tech Stack
 
-### Frontend
+  [![Skills](https://skillicons.dev/icons?i=python,cpp,nextjs,postgres,graphql)](https://devsuryansh.in)
 
-Next.js | Tailwind CSS | ShadCN UI
+# 📈 Statistics
 
-### Backend
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
 
-Node.js | Express.js
+[![GitHub Public Stats](https://github-readme-stats.vercel.app/api?username=devSuryansh&show_icons=true&border_radius=1&bg_color=0d1117&text_color=f8f8ff&title_color=f8f8ff&hide_title=true&ring_color=4c71f2&rank_icon=github)](https://devsuryansh.in)
 
-### Database
+  </td>
+    <td width="50%" align="center" rowspan="2">
 
-PostgreSQL | MySQL
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSuryansh&layout=pie&theme=dark&border_radius=1&bg_color=0d1117&text_color=f8f8ff&title_color=f8f8ff&langs_count=8&hide_title=true)](https://devsuryansh.in)
 
-### Development
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
 
-Git | GitHub | VS Code | Linux
+[![GitHub Streak](https://streak-stats.demolab.com?user=devSuryansh&border_radius=1&short_numbers=true&background=0d1117&currStreakNum=f8f8ff&sideNums=f8f8ff&currStreakLabel=f8f8ff&sideLabels=f8f8ff&ring=ff6400&theme=github-dark-blue)](https://devsuryansh.in)
 
-### Deployment
+  </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
 
-GitHub Pages | Vercel
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devSuryansh&grid=false&bg_color=0d1117&radius=1&line=4c71f2&area=true&hide_title=true&color=f8f8ff&theme=github-dark)](https://devsuryansh.in)
 
-### Advanced
+  </td>
+  </tr>
+</table>
 
-Numpy | Pandas | Scikit
+#
 
-## Socials
+  [![Profile Views](https://komarev.com/ghpvc/?username=devSuryansh&abbreviated=true&base=3000&label=Profile+Views)](https://devsuryansh.in)
 
-[Mail](mailto:suryanshg2050@gmail.com) | [LinkedIn](https://www.linkedin.com/in/suryansh--singh/)
+  [![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Life+is+not+fair;+get+used+to+it.&fontSize=40&section=footer&fontAlignY=65)](https://devsuryansh.in)
 
----
-
-> Life is unfair; get used to it.
+</div>
