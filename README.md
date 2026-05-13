@@ -43,7 +43,7 @@
 
   [![Skills](https://skillicons.dev/icons?i=python,cpp,nextjs,postgres,graphql)](https://devsuryansh.in)
 
-# 📈 Statistics
+<!-- # 📈 Statistics
 
 <table width="100%">
   <tr>
@@ -67,7 +67,7 @@
 
   </td>
   </tr>
-</table>
+</table> -->
 
 #
 
